@@ -16,8 +16,11 @@ Responsive Design: The calculator is designed to be responsive, ensuring it work
 ### Technologies Used
 
 JavaScript: The core functionality of the calculator is implemented in vanilla JavaScript, handling the input, processing the expressions, and updating the display.
+
 HTML: The structure of the calculator is built using HTML, providing a straightforward and semantic layout.
+
 CSS: Styling is done using CSS to create a visually appealing interface, including responsive design features to ensure usability across different devices.
+
 
 Github Repository :https://github.com/avinashyesuri/HC2calculator/edit/main/README.md
 
