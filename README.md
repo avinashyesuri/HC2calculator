@@ -13,7 +13,6 @@ Keyboard Support: The application supports both mouse clicks and keyboard input 
 Responsive Design: The calculator is designed to be responsive, ensuring it works well on various screen sizes, including desktops, tablets, and mobile devices.
 
 
-
 ### Technologies Used
 
 JavaScript: The core functionality of the calculator is implemented in vanilla JavaScript, handling the input, processing the expressions, and updating the display.
