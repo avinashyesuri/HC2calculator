@@ -21,7 +21,6 @@ HTML: The structure of the calculator is built using HTML, providing a straightf
 
 CSS: Styling is done using CSS to create a visually appealing interface, including responsive design features to ensure usability across different devices.
 
-
 Github Repository :https://github.com/avinashyesuri/HC2calculator/edit/main/README.md
 
 ![image](https://github.com/user-attachments/assets/81f2edff-18dd-49fe-ae08-ded59e038016)
